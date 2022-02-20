@@ -8,7 +8,9 @@ First we created a table with the number of employees retiring from different po
 
 From this table we can see:
 - The two positions that will be the most important to fill, will be senior engineer and senior staff. There are approximately 25 000 employees about to retire in      those two positions/departments. 
+
 ![](/retiring_titles.png)
+
 - We can also see there are 2 managers that are ready to retire. This isn't a large number but since manager positions are very important in an organization, these two manager positions should be considered.
 
 We then created a table with all the employees who would be eligible for a mentorship program. 
