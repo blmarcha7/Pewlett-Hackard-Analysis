@@ -3,14 +3,18 @@
 At Pewlett Hackard, there is a "silver tsunami" coming, as many current employees are reaching retirement age. In this analysis, we were asked to determine the number of retiring employees per title and to indentify employees who would be eligible to participate in a mentorship program. We are going to complete this analysis using SQL, by filtering and joining different tables of data that we have received from the company. 
 ## Results
 First we created a table with the number of employees retiring from different positions. 
+
 [number of retiring employees per title](Data/retiring_titles.csv)
+
 From this table we can see:
 - The two positions that will be the most important to fill, will be senior engineer and senior staff. There are approximately 25 000 employees about to retire in      those two positions/departments. 
 ![](/retiring_titles.png)
 - We can also see there are 2 managers that are ready to retire. This isn't a large number but since manager positions are very important in an organization, these two manager positions should be considered.
 
 We then created a table with all the employees who would be eligible for a mentorship program. 
+
 [mentorship program eligibility](Data/mentorship_eligibility.csv)
+
 From this table we can see:
 - There are a large number of employees eligible for this program. There are almost 500 000 employees eligible for this program. 
 - There will most likely need to be more filtering done to decide who would be asked to be involved in this program. The program would be too large to include all     of these eligible employees.
